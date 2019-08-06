@@ -1,0 +1,1 @@
+Pedido autonomo de restaurante, o cliente ao entrar no restaurante recebe um PIN, esse cliente escolhe uma mesa, se conecta, faz o pedido sob o dominio deste PIN e ao sair informa-o ao caixa, onde o mesmo fechará a conta somando os preçõs do pedido, fechando assim sua conta e desabilitando o determinado PIN.
